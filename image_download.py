@@ -138,4 +138,4 @@ def image_download(search_text: str,
     print("**********************************************************")
 
 
-image_download(search_text="passport card", num_images=500, label="passport")
+image_download(search_text="malaysia passport", num_images=1000, label="malaysia passport")
