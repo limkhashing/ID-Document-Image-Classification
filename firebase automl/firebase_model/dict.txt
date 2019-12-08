@@ -1,2 +1,0 @@
-driving_license
-identity_card

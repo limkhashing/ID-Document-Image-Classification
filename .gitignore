@@ -103,3 +103,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/dataset_v3/single_prediction/see see hean.jpg
