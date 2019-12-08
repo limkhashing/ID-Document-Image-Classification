@@ -287,4 +287,4 @@ CLEANED_DIRECTORY = "./cleaned"
 if not os.path.exists(CLEANED_DIRECTORY):
     os.makedirs(CLEANED_DIRECTORY)
 
-process_image('./input/ic.jpg', './clean/cleaned.jpg')
+process_image('./input/ic.jpg', './cleaned/cleaned.jpg')
