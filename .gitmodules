@@ -1,3 +1,6 @@
 [submodule "keras-image-classification"]
 	path = keras-image-classification
 	url = https://github.com/limkhashing/keras-image-classification.git
+[submodule "ocr-image-classification"]
+	path = ocr-image-classification
+	url = https://github.com/limkhashing/ocr-image-classification
