@@ -1,0 +1,3 @@
+[submodule "keras-image-classification"]
+	path = keras-image-classification
+	url = https://github.com/limkhashing/keras-image-classification.git
